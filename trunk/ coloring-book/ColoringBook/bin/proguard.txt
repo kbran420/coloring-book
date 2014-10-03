@@ -1,0 +1,33 @@
+# view large\res/layout-large/activity_main.xml #generated:100
+# view res/layout/activity_main.xml #generated:100
+# view sw480dp\res/layout-sw480dp/activity_main.xml #generated:100
+# view sw600dp\res/layout-sw600dp/activity_main.xml #generated:100
+# view sw720dp\res/layout-sw720dp/activity_main.xml #generated:100
+# view sw800dp\res/layout-sw800dp/activity_main.xml #generated:100
+# view xlarge\res/layout-xlarge/activity_main.xml #generated:100
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# view AndroidManifest.xml #generated:48
+-keep class net.globide.coloring_book_08.ColorActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:85
+-keep class net.globide.coloring_book_08.CreditsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:96
+-keep class net.globide.coloring_book_08.HelpActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:37
+-keep class net.globide.coloring_book_08.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:59
+-keep class net.globide.coloring_book_08.MainPanelFragment { <init>(...); }
+
+# view AndroidManifest.xml #generated:64
+-keep class net.globide.coloring_book_08.SettingsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:75
+-keep class net.globide.coloring_book_08.ShopActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:26
+-keep class net.globide.coloring_book_08.SplashActivity { <init>(...); }
+
