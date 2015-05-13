@@ -1,0 +1,1 @@
+ap to màu hình ảnh giành cho trẻ em không bị sót điểm ảnh
